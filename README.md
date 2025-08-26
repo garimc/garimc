@@ -1,6 +1,6 @@
 <h2 align="center"> 👩‍💻 Hi, I'm Garim </h2>
 <p align="center">
-Data Analyst | Behavioral Science Enthusiast | Social Impact Advocate
+Data Analyst | Psychology Graduate | Social Impact Advocate
 </p>
 
 <h2 align="center"> ⌨️ Stack <br> </h2>
