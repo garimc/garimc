@@ -1,36 +1,21 @@
-## Hi there 👋
+<h2 align="center"> 👩‍💻 Hi, I'm Garim </h2>
+<p align="center">
+Data Analyst | Behavioral Science Enthusiast | Social Impact Advocate
+</p>
 
-<!--
-**garimc/garimc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> ⌨️ Stack <br> </h2>
+<p align="center">
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <!--SQL-->
+  <img alt="python" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <!--python-->
+  <img alt="tableau" src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> <!--tableau-->
+  <img alt="Git" src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  <!--Git-->
+  <img alt="GCP" src ="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <!--GCP-->
+  <img alt="Airflow" src ="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/> <!--Airflow-->
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-📊 Data Analysis & Visualization
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40"/>
-
-🗄️ Database & Query
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/> (BigQuery는 GCP 아이콘으로 표현)
-
-🧪 Experiment & Statistics
-<img src="https://img.shields.io/badge/A/B%20Testing-%2300C4CC.svg?style=for-the-badge&logo=airtable&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-%234285F4.svg?style=for-the-badge&logo=R&logoColor=white"/>
-
-🛠️ Tools & Collaboration
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+<h2 align="center"> ☘️ About me </h2>
+<p align="center">
+  <a href="https://www.notion.so/21c9d97408e68095bb04f421b6213554">
+    <img src="https://img.shields.io/badge/Notion-Study%20Notes-black?logo=notion&logoColor=white" />
+  </a>
+</p>
