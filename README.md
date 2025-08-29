@@ -13,7 +13,7 @@
 
 <h2 align="center"> 📈 Data Analysis Projects </h2>
 <p align="center">
-project 1: votingapp-activity-payment-analysis (유저 활동일수 및 결제율 향상을 위한 핵심 요인 분석) <br>
+project 1: voting-app-activity-payment-analysis (유저 활동일수 및 결제율 향상을 위한 핵심 요인 분석) <br>
 project 2: recruitment-platform-conversion-analysis (신규 가입자 초기 행동 기반 전환 세그먼트 분석) <br>
 </p>
 
